@@ -11,49 +11,112 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+*London School of Economics and Political Science*, \hfill September 2022 - September 2026 (expected)  
+PhD student in the Department of Methodology  
+Funded by ESRC scholarship
+
+*University of Southampton*, \hfill September 2019 - December 2020  
+*MSc Demography, Distinction*  
+Thesis: Spatial autocorrelation of fertility outcomes within England and Wales at the neighbourhood level
+
+
+*Univeristy of Leeds*, \hfill September 2015 - July 2019  
+*BA Geography, First with honours*  
+Thesis: The effect of educational differentiation on fertility within the
+UK, a population projection
+\newline
+
+# Exchange programme
+*Ludwig-Maximilians-Universit&auml;t M&uuml;nchen*, \hfill October 2017 - September 2018  
+Political Science and Sociology
+\newline
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*London School of Economics and Political Science*, \hfill January 2023 - present  
+Graduate teaching assistant  
+Special Topics in Quantitative Analysis
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+*&Ouml;sterreichische Akademie der Wissenschaften*, \hfill September 2020 - August 2022   
+*Vienna Institute of Demography*,  
+Research assistant in the "Family and Fertility" and "Demography of Austria" groups. 
+Project: Births and other life goals: complementary or competition?
+\newline
+
   
-Skills
+Scholarships & Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*Poster session winners*, \hfill March 2021  
+Population Association of America  
+*From the Stork to Fertility Apps*. Rampazzo, F. (presenter), Raybould, A., Rampazzo, P., Barker, R.
+
+*MSc Scholarship*, \hfill September 2019 - September 2020  
+Population Investigation Committee  
+Competitive scholarship given to two British students pursuing a career in Demography
+
+*Grebenik Award*,  \hfill July 2019  
+University of Leeds   
+Best Population-Geography dissertation
+\newline
+
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+**Barker, R**, Buber-Ennser, I. (2022). **Uncertainty and flexibility of fertility intentions**. VID Working Paper 03/2022. https://doi.org/10.1553/0x003e60ec 
+
+Rampazzo, F., Raybould A., Rampazzo, P., **Barker, R**, Leasure, D. R. (2022). *“UPDATE: I’m pregnant!”: Inferring global use of fertility tracking apps.* SocArXiv. https://doi.org/10.31235/osf.io/2va3n 
+
+Manuscripts in progress
+======
+**Barker, R.**, Geerts, A., Rampazzo, F., Rampazzo, P., Leasure, D. *It's a match! A global view on the use of online dating applications.*
+
+**Barker, R.**, Minkus, L. *The changing context of the word 'childless' in British media from 1969 to 2023.*
+
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+Population Association of America 2023 Annual Meeting,  \hfill April 2023  
+*Uncertainty and Flexibility of Fertility Intentions*.  **Barker, R**., Buber-Ennser, I (presenter).
+
+Population Association of America 2023 Annual Meeting,  \hfill April 2023  
+*It’s a match! A global view on the positioning and use of online dating apps*.  **Barker, R**, Geerts, A., Rampazzo, F (presenter)., Rampazzo, Leasure, D.
+
+The Quest for a Partner in the Past and Today. Researching Data from Matchmaking Media and Agencies,  \hfill January 2023  
+*It’s a match! A global view on the positioning and use of online dating apps*.  **Barker, R** (presenter), Geerts, A., Rampazzo, F., Rampazzo, Leasure, D.
+
+Invited seminar, Laboratory of Digital and Computational Demography (MPIDR),  \hfill June 2022  
+*The possible case for web scraping and natural langauge processing in family demography*.  **Barker, R**.
+
+Generations and Gender Programme User Conference 2021,  \hfill October 2021  
+*An exploration of uncertainty and flexibility in fertility intentions*.  **Barker, R** (presenter)., Buber-Ennser, I.
+
+Wittgenstein Centre Colloquium,  \hfill July 2021  
+*From the Stork to Fertility Apps*. Rampazzo, F., Raybould, A., Rampazzo, P., **Barker, R** (presenter).
+
+British Society of Population Studies Conference, \hfill April 2021  
+*From the Stork to Fertility Apps*. 
+Rampazzo, F., Raybould, A., Rampazzo, P., **Barker, R** (presenter).
+
+Copy editing
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+European Demographic Data Sheet 2022. Wittgenstein Centre.
+
+Computer Skills
 ======
-* Currently signed in to 43 different slack teams
+Languages - R, Python
+\newline
+Applications - \LaTeX
+\newline
+Version control - git  
+  
+Outside Training  
+======
+Nuffield College, University of Oxford - Summer Institute of Computational Social Science  \hfill July 2022 
+\newline
+Hertie School - Data Science Summer School (Online) \hfill July 2021 
+\newline
+IMPRS-PHDS/IDEM - Topics in Digital and Computational Demography (Online) \hfill November 2020
+\newline
+Barcelona RECSM Summer School (Online) \hfill June 2020 
+\newline
