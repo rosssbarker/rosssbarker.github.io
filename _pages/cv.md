@@ -104,19 +104,19 @@ European Demographic Data Sheet 2022. Wittgenstein Centre.
 
 Computer Skills
 ======
-Languages - R, Python
+Languages - R, Python  
 
-Applications - LaTeX
+Applications - LaTeX  
 
-Version control - git  
+Version control - git   
   
 Outside Training  
 ======
-Nuffield College, University of Oxford - Summer Institute of Computational Social Science  July 2022 
+Nuffield College, University of Oxford - Summer Institute of Computational Social Science  July 2022  
 
-Hertie School - Data Science Summer School (Online) July 2021 
+Hertie School - Data Science Summer School (Online) July 2021  
 
-IMPRS-PHDS/IDEM - Topics in Digital and Computational Demography (Online) November 2020
+IMPRS-PHDS/IDEM - Topics in Digital and Computational Demography (Online) November 2020  
 
-Barcelona RECSM Summer School (Online) June 2020 
+Barcelona RECSM Summer School (Online) June 2020  
 
