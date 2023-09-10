@@ -36,7 +36,7 @@ Work experience
 ======
 *London School of Economics and Political Science*, January 2023 - present  
 Graduate teaching assistant  
-Special Topics in Quantitative Analysis
+Special Topics in Quantitative Text Analysis
 
 *&Ouml;sterreichische Akademie der Wissenschaften*, September 2020 - August 2022   
 *Vienna Institute of Demography*,  
