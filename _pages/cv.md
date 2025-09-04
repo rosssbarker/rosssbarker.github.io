@@ -60,14 +60,6 @@ Aug 2020 – Sept 2022
 - Participated in meetings and conferences in English and German, strengthening cross-cultural collaboration skills.
 
 # Education
-
-**MPhil-level in Demography (postponed PhD expected June 2025)**  
-*London School of Economics*  
-2022 – 2025  
-- Full ESRC funding to research public attitudes toward childlessness, addressing overlooked social norms.  
-
----
-
 **MSc in Demography, Distinction**  
 *University of Southampton*  
 2019 – 2020  
